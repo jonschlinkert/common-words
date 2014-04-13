@@ -1,7 +1,7 @@
 {
   "name": "common-words",
   "description": "Updated list (JSON) of the 100 most common words in the English language. Useful for excluding these words from arrays.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/jonschlinkert/common-words",
   "author": {
     "name": "Jon Schlinkert",
@@ -35,7 +35,7 @@
   "devDependencies": {
     "verb": "~0.2.0"
   },
-  "dependencies": {
+  "devDependencies": {
     "cheerio": "~0.15.0",
     "fs-utils": "~0.4.0",
     "request": "~2.34.0",
